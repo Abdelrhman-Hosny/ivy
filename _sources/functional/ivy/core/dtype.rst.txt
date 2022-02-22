@@ -15,7 +15,6 @@ Dtype
    dtype/cast.rst
    dtype/dtype.rst
    dtype/dtype_bits.rst
-   dtype/dtype_bits.rst
    dtype/is_int_dtype.rst
    dtype/is_float_dtype.rst
    dtype/valid_dtype.rst
